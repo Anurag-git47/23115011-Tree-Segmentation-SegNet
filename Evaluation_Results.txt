@@ -1,0 +1,18 @@
+SEGNET TREE SEGMENTATION PROJECT
+================================
+
+Dataset: Tree Segmentation Dataset
+Total Images: 49
+Training Images: 34
+Validation Images: 7
+Testing Images: 8
+
+Model: SegNet
+Device: CPU
+Epochs: 15
+Trainable Parameters: 574849
+
+Best Validation Loss: 0.4172
+IoU Score: 0.7509
+Dice Score: 0.8577
+Pixel Accuracy: 86.22%
